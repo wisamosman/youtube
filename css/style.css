@@ -58,3 +58,6 @@ border: 2px solid white;
     font-weight: 600;
     margin-left: 12px;
 }
+.x1 :hover{
+    border: 2px solid white;
+}
