@@ -12,13 +12,39 @@
 }
 .d-flex{
     margin-left: 230px;
+    
+    
 }
+
 .form-control{
     padding: 4px 277px 4px 10px
+    
+
 }
+
 .q5{
     
     
     margin-left: -27px;
     border-radius: 6px;
+}
+.q6{
+    margin-left: 25px;
+}
+.q7{
+    margin-left: 100px; 
+}
+.q8{
+    margin-left: 25px;  
+}
+.a1{
+    font-size: 26px;
+    margin-left: -95px;
+    font-weight: 700;
+}
+.r1 :hover{
+border: 2px solid white;
+}
+.r1{
+    border-bottom: 1px solid black;
 }
