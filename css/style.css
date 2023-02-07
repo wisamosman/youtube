@@ -42,7 +42,7 @@
     margin-left: -95px;
     font-weight: 700;
 }
-.r1 :hover{
+.r1:hover{
 border: 2px solid white;
 }
 .r1{
@@ -58,6 +58,6 @@ border: 2px solid white;
     font-weight: 600;
     margin-left: 12px;
 }
-.x1 :hover{
+.x1:hover{
     border: 2px solid white;
 }
