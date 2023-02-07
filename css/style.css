@@ -61,3 +61,6 @@ border: 2px solid white;
 .x1:hover{
     border: 2px solid white;
 }
+.navbar{
+    margin-right: -12px;
+}
